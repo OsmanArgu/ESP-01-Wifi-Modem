@@ -22,13 +22,5 @@ ESPECIFICACIONES TÉCNICAS:
         -PLLs, reguladores, DCXO y manejo de poder integrados
         -Potencia de salida de +19.5dBm en modo 802.11b
         -Corriente de fuga menor a 10uA
-        -El procesador integrado de 32-bit puede ser utilizado como procesador de aplicación
-        -SDIO 1.1/2.0, SPI, UART
-        -STBC, 1×1 MIMO, 2×1 MIMO
-        -A-MPDU & A-MSDU aggregation & 0.4ms guard interval
-        -Wake up and transmit packets in < 2ms
-        -Consumo de potencia Standby < 1.0mW (DTIM3)
-        -Dimensiones: 25*15 mm
-        -Peso: 5 gramos
         
         ![](Modem.jpg)
