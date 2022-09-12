@@ -22,4 +22,4 @@ ESPECIFICACIONES TÉCNICAS:
         -Potencia de salida de +19.5dBm en modo 802.11b
         -Corriente de fuga menor a 10uA
         
-        
+
