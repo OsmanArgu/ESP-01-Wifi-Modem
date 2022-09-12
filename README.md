@@ -31,4 +31,4 @@ ESPECIFICACIONES TÉCNICAS:
         -Dimensiones: 25*15 mm
         -Peso: 5 gramos
         
-        
+        ![](Modem.jpg)
