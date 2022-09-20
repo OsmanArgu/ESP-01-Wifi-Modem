@@ -1,6 +1,6 @@
 ![](782F3420-337B-4306-90F8-6B01FA57C72B.png)
 
-# ESP-01-Wifi-Modem
+# ¿Que es el ESP-01 Wifi Modem?
 Está basado en el SoC (System on Chip) ESP8266, un chip altamente integrado, diseñado para las necesidades de un mundo conectado. Integra un potente procesador con Arquitectura de 32 bits y conectividad WiFi. Ofrece una completa y autocontenida solución WiFi Networking, permitiéndole trabajar como host de aplicaciones o reducir la carga de WiFi Networking de otro procesador.
 
 ![](Modem.jpg)
