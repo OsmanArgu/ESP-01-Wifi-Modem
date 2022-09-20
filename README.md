@@ -4,8 +4,8 @@ Está basado en el SoC (System on Chip) ESP8266, un chip altamente integrado, di
 ![](Modem.jpg)
 
 ESPECIFICACIONES TÉCNICAS: 
-        -Voltaje de Alimentación: 3.3V DC
-        -Voltaje de Entradas/Salidas: 3.3V DC (No usar 5V)
+        Voltaje de Alimentación: 3.3V D
+        Voltaje de Entradas/Salidas: 3.3V DC (No usar 5V)
         -SoM: ESP-12E (Ai-Thinker)
         -SoC: ESP8266 (Espressif)
         -CPU: Tensilica Xtensa LX3 (32 bit)
@@ -14,7 +14,6 @@ ESPECIFICACIONES TÉCNICAS:
         -Data RAM: 96KB
         -Memoria Flash Externa: 4MB
         -Pines Digitales GPIO: 4
-        -UART: 1
         -802.11 b/g/n
         -Wi-Fi Direct (P2P), soft-AP
         -Stack de Protocolo TCP/IP integrado
